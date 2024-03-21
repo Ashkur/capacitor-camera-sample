@@ -1,0 +1,7 @@
+{
+  "name": "camera-sample",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
